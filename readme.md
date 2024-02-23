@@ -15,3 +15,30 @@ Before you begin, ensure you have met the following requirements:
 * Python 3.6 or higher installed on your machine
 * A Gupshup account for WhatsApp API access
 * Ngrok (for local development and testing)
+
+## Installing
+
+A step-step series of examples that tell you how to get a development environment running:
+
+#### 1. Clone the repo:
+'''git clone
+git clone https://github.com/your-username/whatsapp-chatbot-flask-gupshup.git
+cd whatsapp-chatbot-flask-gupshup'''
+
+#### 2. Create and Activate Virtual Environment:
+For Unix/Linux systems:
+'''python3 -m venv env
+source env/bin/activate'''
+
+For Windows:
+'''python -m venv env
+.\env\Scripts\activate'''
+
+
+
+
+
+
+
+
+
