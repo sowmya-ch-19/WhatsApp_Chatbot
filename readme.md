@@ -9,4 +9,9 @@ WhatsApp Chatbot is a simple chabot which responds to predefined messages . The 
 
 * Personalization: With access to user data and conversation history, chatbots can deliver personalized experiences, addressing users by name and tailoring responses to their specific needs and preferences.
 
-* Multimedia Support: WhatsApp chatbots can send and receive multimedia messages, including images, videos, voice messages, and documents, making interactions more informative and engaging.
+## Prerequisities
+Before you begin, ensure you have met the following requirements:
+
+* Python 3.6 or higher installed on your machine
+* A Gupshup account for WhatsApp API access
+* Ngrok (for local development and testing)
