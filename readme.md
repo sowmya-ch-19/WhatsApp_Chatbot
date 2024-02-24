@@ -52,6 +52,7 @@ GUPSHUP_API_KEY=your_gupshup_api_key
 GUPSHUP_BOT_NAME=your_gupshup_bot_name
 FLASK_APP=app.py
 
+Replace `your_gupshup_api_key` and `your_gupshup_bot_name` with the actual API key and bot name provided by Gupshup.
 
 
 
