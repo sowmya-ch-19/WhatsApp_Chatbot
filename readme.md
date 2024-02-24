@@ -52,9 +52,9 @@ pip install -r requirements.txt
 #### 6. Environment Variables
 Create a `.env` file in the root directory of the project and add the following:
 
-`GUPSHUP_API_KEY=your_gupshup_api_key
-GUPSHUP_BOT_NAME=your_gupshup_bot_name
-FLASK_APP=app.py`
+`GUPSHUP_API_KEY=your_gupshup_api_key`
+`GUPSHUP_BOT_NAME=your_gupshup_bot_name`
+`FLASK_APP=app.py`
 
 Replace `your_gupshup_api_key` and `your_gupshup_bot_name` with the actual API key and bot name provided by Gupshup.
 
@@ -69,6 +69,15 @@ To allow WhatsApp to send messages to your local server, use Ngrok to expose you
 `ngrok http 5000`
 
 Copy the HTTPS forwarding address provided by Ngrok (e.g., `https://12345.ngrok.io`) and use it in the webhook configuration in your Gupshup dashboard.
+
+## Usage
+Once everything is set up, your WhatsApp chatbot should be able to receive messages sent to your WhatsApp number connected through Gupshup and respond based on the logic you've implemented in `app.py`.
+
+## Contributing
+Contributions to this project are welcome. Please fork the repository and submit a pull request with your improvements.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 
