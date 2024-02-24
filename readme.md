@@ -22,13 +22,12 @@ A step-step series of examples that tell you how to get a development environmen
 
 
 #### 1. Clone the repo:
-```git clone
+git clone
 https://github.com/your-username/whatsapp-chatbot-flask-gupshup.git
 
 
 
-#### 1. Clone the repo:
-git clone https://github.com/yourusername/WeatherApp.git
+
 
 #### 2. Navigate to the project directory:
 cd WeatherApp
