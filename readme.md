@@ -21,10 +21,19 @@ Before you begin, ensure you have met the following requirements:
 A step-step series of examples that tell you how to get a development environment running:
 
 
-#### 1.Clone the repo:
+#### 1. Clone the repo:
 ```git clone
 https://github.com/your-username/whatsapp-chatbot-flask-gupshup.git
-cd whatsapp-chatbot-flask-gupshup```
+cd whatsapp-chatbot-flask-gupshup
+
+#### 2. Create and Activate Virtual Environment:
+For Uniix/Linux systems:
+```python3 -m venv env
+source env/bin/activate```
+
+
+
+
 
 
 
