@@ -13,6 +13,6 @@ Before you can contribute, there are a few steps you need to follow to set up yo
 ## Setting Up Your Development Environment
 #### 1. Fork and Clone the Repository: 
 Start by forking this repository and then cloning your fork to your local machine.
-`git clone https://github.com/your-username/whatsapp-chatbot.git
-cd whatsapp-chatbot`
+`git clone https://github.com/your-username/whatsapp-chatbot.git`
+`cd whatsapp-chatbot`
 
