@@ -1,4 +1,4 @@
-# WhatsApp Chatbot
+ # WhatsApp Chatbot
 WhatsApp Chatbot is a simple chabot which responds to predefined messages . The chatbot is capable of receiving messages from WhatsApp, processing them, and sending responses back to the user using Gupshup as a API.
 ## Features
 * Automated Responses: Chatbots can automatically respond to customer inquiries 24/7, ensuring that customer engagement is maintained even outside of business hours.
@@ -24,7 +24,6 @@ A step-step series of examples that tell you how to get a development environmen
 #### 1. Clone the repo:
 ```git clone
 https://github.com/your-username/whatsapp-chatbot-flask-gupshup.git```
-```cd whatsapp-chatbot-flask-gupshup```
 
 #### 2. Create and Activate Virtual Environment:
 For Uniix/Linux systems:
