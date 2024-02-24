@@ -22,7 +22,8 @@ A step-step series of examples that tell you how to get a development environmen
 
 
 #### 1. Clone the repo:
-git clone https://github.com/your-username/whatsapp-chatbot-flask-gupshup.git
+git clone
+https://github.com/your-username/whatsapp-chatbot-flask-gupshup.git
 
 #### 2. Navigate to the project directory:
 
