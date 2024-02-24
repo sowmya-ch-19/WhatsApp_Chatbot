@@ -23,7 +23,8 @@ A step-step series of examples that tell you how to get a development environmen
 
 #### 1. Clone the repo:
 
-git clone https://github.com/your-username/whatsapp-chatbot-flask-gupshup.git
+git clone 
+https://github.com/your-username/whatsapp-chatbot-flask-gupshup.git
 
 #### 2. Navigate to the project directory:
 
@@ -44,6 +45,12 @@ pip install -r requirements.txt
 #### 5. Setup Gupshup
 * Log in to your Gupshup account and create a new WhatsApp bot.
 * Note down the API key and WhatsApp bot name provided by Gupshup.
+
+#### 6. Environment Variables
+Create a `.env` file in the root directory of the project and add the following:
+GUPSHUP_API_KEY=your_gupshup_api_key
+GUPSHUP_BOT_NAME=your_gupshup_bot_name
+FLASK_APP=app.py
 
 
 
