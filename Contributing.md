@@ -9,3 +9,10 @@ Before you can contribute, there are a few steps you need to follow to set up yo
 * Familiarize yourself with Flask, our web framework of choice. Flask's documentation is a great place to start.
 * Understand how we use Gupshup as our WhatsApp API provider. Check out Gupshup's official documentation for more information.
 * Install Git, as it is required for version control and submitting contributions. Git's official site provides installation instructions.
+
+## Setting Up Your Development Environment
+#### 1. Fork and Clone the Repository: 
+Start by forking this repository and then cloning your fork to your local machine.
+`git clone https://github.com/your-username/whatsapp-chatbot.git
+cd whatsapp-chatbot`
+
