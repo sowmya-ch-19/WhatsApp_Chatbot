@@ -24,7 +24,8 @@ A step-step series of examples that tell you how to get a development environmen
 #### 1. Clone the repo:
 
 git clone 
-https://github.com/your-username/whatsapp-chatbot-flask-gupshup.git
+
+`https://github.com/your-username/whatsapp-chatbot-flask-gupshup.git`
 
 #### 2. Navigate to the project directory:
 
@@ -32,12 +33,14 @@ cd whatsapp-chatbot-flask-gupshup
 
 #### 3. Create and Activate Virtual Environent :
 For Unix/Linux Systems:
-python3 -m venv env
-source env/bin/activate
+
+`python3 -m venv env
+source env/bin/activate`
 
 For Windows:
-python -m venv env
-.\env\Scripts\activate
+
+`python -m venv env
+.\env\Scripts\activate`
 
 #### 4. Install Dependencies:
 pip install -r requirements.txt
@@ -48,11 +51,26 @@ pip install -r requirements.txt
 
 #### 6. Environment Variables
 Create a `.env` file in the root directory of the project and add the following:
+
 `GUPSHUP_API_KEY=your_gupshup_api_key
 GUPSHUP_BOT_NAME=your_gupshup_bot_name
 FLASK_APP=app.py`
 
 Replace `your_gupshup_api_key` and `your_gupshup_bot_name` with the actual API key and bot name provided by Gupshup.
+
+#### 7. Run the Flask Application
+
+`flask run`
+
+#### 8. Expose Local Server using Ngrok
+
+To allow WhatsApp to send messages to your local server, use Ngrok to expose your local server to the internet.
+
+`ngrok http 5000`
+
+Copy the HTTPS forwarding address provided by Ngrok (e.g., `https://12345.ngrok.io`) and use it in the webhook configuration in your Gupshup dashboard.
+
+
 
 
 
