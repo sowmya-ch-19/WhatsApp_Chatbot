@@ -26,9 +26,9 @@ A step-step series of examples that tell you how to get a development environmen
 https://github.com/your-username/whatsapp-chatbot-flask-gupshup.git
 
 #### 2. Create and Activate Virtual Environment:
-For Uniix/Linux systems:
+For Unix/Linux systems:
 ```python3 -m venv env
-source env/bin/activate```
+source env/bin/activate
 
 
 
