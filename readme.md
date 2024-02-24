@@ -32,7 +32,15 @@ https://github.com/your-username/whatsapp-chatbot-flask-gupshup.git
 cd whatsapp-chatbot-flask-gupshup```
 
 
+#### Setting up a Virtual Environment
 
+To isolate the project dependencies, it's a good practice to use a virtual environment. Follow the instructions below based on your operating system:
+
+**For Unix/Linux systems:**
+
+```bash
+python3 -m venv env
+source env/bin/activate
 
 
 
