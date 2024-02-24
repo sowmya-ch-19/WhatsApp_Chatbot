@@ -48,7 +48,8 @@ Push your changes to your fork and then open a PR against the main project repos
 ## Code of Conduct
 We expect all contributors to adhere to our Code of Conduct. Please read CODE_OF_CONDUCT.md to understand what is expected of contributors.
 
-
+## Need Help?
+If you need help or have any questions, feel free to reach out by creating an issue or commenting on an existing one. We are more than happy to assist.
 
 
 
