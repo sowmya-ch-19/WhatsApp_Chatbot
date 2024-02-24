@@ -24,20 +24,20 @@ A step-step series of examples that tell you how to get a development environmen
 #### 1. Clone the repo:
 
 git clone https://github.com/your-username/whatsapp-chatbot-flask-gupshup.git
-cd whatsapp-chatbot-flask-gupshup
-
-
 
 #### 2. Navigate to the project directory:
 
 cd whatsapp-chatbot-flask-gupshup
 
+#### 3. Create and Activate Virtual Environent :
+For Unix/Linux Systems:
+python3 -m venv env
+source env/bin/activate
 
-#### 2. Navigate to the project directory:
-cd WeatherApp
+For Windows:
+python -m venv env
+.\env\Scripts\activate
 
-#### 3. Install necessary packages (the command might vary depending on your project setup):
-pip install -r requirements.txt
 
 #### 4. Start the application:
 python app.py
