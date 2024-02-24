@@ -38,9 +38,12 @@ For Windows:
 python -m venv env
 .\env\Scripts\activate
 
+#### 4. Install Dependencies:
+pip install -r requirements.txt
 
-#### 4. Start the application:
-python app.py
+#### 5. Setup Gupshup
+* Log in to your Gupshup account and create a new WhatsApp bot.
+* Note down the API key and WhatsApp bot name provided by Gupshup.
 
 
 
