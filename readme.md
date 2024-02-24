@@ -26,13 +26,7 @@ A step-step series of examples that tell you how to get a development environmen
 https://github.com/your-username/whatsapp-chatbot-flask-gupshup.git
 cd whatsapp-chatbot-flask-gupshup```
 
-#### 1. Clone the repo:
-```git clone
-https://github.com/your-username/whatsapp-chatbot-flask-gupshup.git
-cd whatsapp-chatbot-flask-gupshup```
-
-
-#### Setting up a Virtual Environment
+#### 2. Setting up a Virtual Environment
 
 To isolate the project dependencies, it's a good practice to use a virtual environment. Follow the instructions below based on your operating system:
 
