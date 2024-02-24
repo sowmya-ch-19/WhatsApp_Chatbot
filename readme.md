@@ -20,6 +20,12 @@ Before you begin, ensure you have met the following requirements:
 
 A step-step series of examples that tell you how to get a development environment running:
 
+
+#### 1. Clone the repo:
+```git clone
+https://github.com/your-username/whatsapp-chatbot-flask-gupshup.git
+cd whatsapp-chatbot-flask-gupshup```
+
 #### 1. Clone the repo:
 ```git clone
 https://github.com/your-username/whatsapp-chatbot-flask-gupshup.git
